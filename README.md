@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: welcome
-tagline: fuzuxian's blogs
+# heroText: welcome
+tagline: welcome to fuzuxian's blogs
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
@@ -12,8 +12,8 @@ tagline: fuzuxian's blogs
 #   borderRadius: '1rem',
 # }
 bgImageStyle: {
-  height: '450px'
+  height: '150px'
 }
 isShowTitleInHome: false
-actionText: Guide
-actionLink: /views/other/guide
+# actionText: Guide
+# actionLink: /views/other/guide

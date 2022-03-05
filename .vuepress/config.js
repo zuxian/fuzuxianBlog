@@ -36,7 +36,7 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           {
-            "text": "vuepress-reco",
+            "text": "小记",
             "link": "/docs/theme-reco/"
           }
         ]
@@ -63,7 +63,7 @@ module.exports = {
         "",
         "theme",
         "plugin",
-        "api"
+        "sort"
       ]
     },
     "type": "blog",
@@ -80,13 +80,13 @@ module.exports = {
     "friendLink": [
       {
         "title": "CSDN",
-        "desc": "Enjoy when you can, and endure when you must.",
+        "desc": "我的CSDN博客地址",
         "email": "zuxian_fu@163.com",
         "link": "https://blog.csdn.net/image_fzx"
       },
       {
         "title": "github",
-        "desc": "Enjoy when you can, and endure when you must.",
+        "desc": "我的github地址",
         "avatar": "./avatar.png",
         "link": "https://github.com/zuxian"
       }
@@ -94,10 +94,10 @@ module.exports = {
     "logo": "/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
-    "lastUpdated": "Last Updated",
+    // "lastUpdated": "Last Updated",
     "author": "fuzuxian",
     "authorAvatar": "/avatar.png",
-    "record": "xxxx",
+    // "record": "xxxx",
     "startYear": "2017"
   },
   "markdown": {
