@@ -22,17 +22,17 @@ module.exports = {
   "themeConfig": {
     "nav": [
       {
-        "text": "Home",
+        "text": "主页",
         "link": "/",
         "icon": "reco-home"
       },
       {
-        "text": "TimeLine",
+        "text": "时间轴",
         "link": "/timeline/",
         "icon": "reco-date"
       },
       {
-        "text": "Docs",
+        "text": "文档",
         "icon": "reco-message",
         "items": [
           {
@@ -42,9 +42,14 @@ module.exports = {
         ]
       },
       {
-        "text": "Contact",
+        "text": "关于我",
         "icon": "reco-message",
         "items": [
+          {
+            "text": "CSDN",
+            "link": "https://blog.csdn.net/image_fzx",
+            "icon": "zuxian-CSDN"
+          },
           {
             "text": "GitHub",
             "link": "https://github.com/zuxian",
@@ -65,11 +70,11 @@ module.exports = {
     "blogConfig": {
       "category": {
         "location": 2,
-        "text": "Category"
+        "text": "分类"
       },
       "tag": {
         "location": 3,
-        "text": "Tag"
+        "text": "标签"
       }
     },
     "friendLink": [

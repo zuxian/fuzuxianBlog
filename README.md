@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: fuzuxian
+heroText: welcome
 tagline: fuzuxian's blogs
 # heroImage: /hero.png
 # heroImageStyle: {
