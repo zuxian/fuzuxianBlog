@@ -61,7 +61,6 @@ module.exports = {
     "sidebar": {
       "/docs/theme-reco/": [
         "",
-        "plugin",
         "sort"
       ]
     },
