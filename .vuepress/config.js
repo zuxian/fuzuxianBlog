@@ -64,6 +64,8 @@ module.exports = {
         "sort"
       ]
     },
+    subSidebar: 'auto',
+    sidebarDepth: 3,
     "type": "blog",
     "blogConfig": {
       "category": {
